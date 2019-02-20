@@ -10,7 +10,7 @@ def discount(cost, coupon=0.10):
 
 # Todo: Add family discount method
 
-print('Set python interpreter to 3.x to see errors')
+print('set python interpreter to 3.x to see errors')
 
 
 
