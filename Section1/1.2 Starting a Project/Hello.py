@@ -8,4 +8,4 @@ if you are using python 2 or python 3!
 # print "Hello World!"
 print("Hello Universe!")
 print('Hello World!')
-print(7/3)
+print(7/1)
